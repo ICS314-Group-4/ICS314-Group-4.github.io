@@ -12,11 +12,13 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 
 
 ## Project goals:
-* Lorem ipsum dolor sit amet, 
-* consectetur adipiscing elit,
-* sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* Ut enim ad minim veniam,
-* quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+* Database of email templates
+* Reduce mental fatigue on UH ITS Student employees from typing the same email multiple times to different users
+* Users can create, update, and delete their own database entries
+* Read and comment on all other entries
+* Entries will be grouped in categories with a description of the problem as the title
+* Allow student employees to effectively respond to tickets with a few clicks instead of drafting and revising a professional email for common issues.
+
 
 ## Mockup pages:
 (screenshots)
