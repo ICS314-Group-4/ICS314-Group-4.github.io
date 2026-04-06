@@ -1,6 +1,6 @@
 # Project name
 
-##Table of contents
+## Table of contents
 * [Overview](#overview)
 * [Project goals](#project-goals)
 * [Mockup pages](#mockup-pages)
