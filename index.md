@@ -4,6 +4,7 @@
 * [Overview](#overview)
 * [Project goals](#project-goals)
 * [Mockup pages](#mockup-pages)
+* [Mockup page ideas](#mockup-page-ideas)
 
 ## Overview
 The Problem: UH ITS Help Desk student employees respond to countless emails every day, however, typing these emails takes a lot of time and effort to ensure accuracy and professionalism. While TeamDynamix has a feature for email templates that allow you to respond to common issues and concerns with a few clicks, these do not encompass most of the common issues that users experience. While you can also create your own templates in TeamDynamix, students are limited to 20 hours of work per week; their personal library of templates will be small, inconvenient to manage, and possibly provide inaccurate solutions.
@@ -22,3 +23,11 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 
 ## Mockup pages:
 (screenshots)
+
+
+## Mockup page ideas:
+* Log in page
+* Home page
+* Template listings page/search results
+* Add template page
+* View and use template page
