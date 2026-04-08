@@ -6,6 +6,9 @@
 * [Mockup pages](#mockup-pages)
 * [Mockup page ideas](#mockup-page-ideas)
 
+## Team Contract
+<a href="[https://google.com](https://docs.google.com/document/d/1rYpU290ztOZtVtZYAmH4tIyfcvIbfA_oV-0tPRDf_2Y/edit?tab=t.0)">Visit Contract</a>
+
 ## Overview
 The Problem: UH ITS Help Desk student employees respond to countless emails every day, however, typing these emails takes a lot of time and effort to ensure accuracy and professionalism. While TeamDynamix has a feature for email templates that allow you to respond to common issues and concerns with a few clicks, these do not encompass most of the common issues that users experience. While you can also create your own templates in TeamDynamix, students are limited to 20 hours of work per week; their personal library of templates will be small, inconvenient to manage, and possibly provide inaccurate solutions.
 
