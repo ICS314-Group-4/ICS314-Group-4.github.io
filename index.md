@@ -38,7 +38,11 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 
 
 ## Mockup pages:
-(screenshots)
+![mockup-image-1](mockup-images\mockup1.png "title")
+![mockup-image-2](mockup-images\mockup2.png "title")
+![mockup-image-3](mockup-images\mockup3.png "title")
+![mockup-image-4](mockup-images\mockup4.png "title")
+![mockup-image-5](mockup-images\mockup5.png "title")
 
 
 ## Mockup page ideas:
