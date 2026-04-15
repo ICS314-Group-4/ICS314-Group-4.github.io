@@ -5,6 +5,7 @@
 * [Project goals](#project-goals)
 * [Mockup pages](#mockup-pages)
 * [Mockup page ideas](#mockup-page-ideas)
+* [M1 progress](#m1-progress)
 
 ## Team Contract
 <a href="https://docs.google.com/document/d/1rYpU290ztOZtVtZYAmH4tIyfcvIbfA_oV-0tPRDf_2Y/edit?tab=t.0">Visit Contract</a>
@@ -55,3 +56,9 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 * Template listings page/search results
 * Add template page
 * View and use template page
+
+## M1 Progress:
+![home-page](mockup-images/M1-home-page.png "home")
+![view-page](mockup-images/M1-view-templates.png "view page")
+![add-page](mockup-images/M1-add-template.png "add page")
+![admin](mockup-images/M1-add-template.png "admin page")
