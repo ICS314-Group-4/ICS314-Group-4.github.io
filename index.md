@@ -23,7 +23,6 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 
 ## About us
 * <a href="https://github.com/orgs/ICS314-Group-4/repositories/">Github Organization</a>
-https://github.com/orgs/ICS314-Group-4/repositories
 * Andrew Wdzieczkowski <br/>
   Major: Computer Engineering
 * Dylan Elies <br/>
