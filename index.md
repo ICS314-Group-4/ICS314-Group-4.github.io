@@ -62,6 +62,7 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 * View and use template page
 
 ## M1 Progress:
+![landing-page](mockup-images/M1-landing-page.png "landing")
 ![home-page](mockup-images/M1-home-page.png "home")
 ![view-page](mockup-images/M1-view-templates.png "view page")
 ![add-page](mockup-images/M1-add-template.png "add page")
