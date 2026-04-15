@@ -22,6 +22,7 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 
 
 ## About us
+* <a href="https://github.com/orgs/ICS314-Group-4/repositories"/>Github Organization</a>
 * Andrew Wdzieczkowski <br/>
   Major: Computer Engineering
 * Dylan Elies <br/>
@@ -32,8 +33,6 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 * Skyler Remata<br/>
   Major: Computer Science
 * <a href="https://docs.google.com/document/d/1rYpU290ztOZtVtZYAmH4tIyfcvIbfA_oV-0tPRDf_2Y/edit?usp=sharing"/>Team Contract</a>
-<br>
-* <a href="https://github.com/orgs/ICS314-Group-4/repositories"/>Github Organization</a>
 
 
 
