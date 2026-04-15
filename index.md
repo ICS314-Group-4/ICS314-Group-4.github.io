@@ -2,6 +2,7 @@
 
 ## Table of contents
 * [Overview](#overview)
+* [About us](#about-us)
 * [Project goals](#project-goals)
 * [Mockup pages](#mockup-pages)
 * [Mockup page ideas](#mockup-page-ideas)
@@ -20,7 +21,7 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 <a href="https://uh-its-email-helper-hqoog5rn5-eliesds-projects.vercel.app/">Vercel Deployment</a>
 
 
-## Group members
+## About us
 * Andrew Wdzieczkowski <br/>
   Major: Computer Engineering
 * Dylan Elies <br/>
@@ -30,6 +31,10 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
   Major: Computer Science 
 * Skyler Remata<br/>
   Major: Computer Science
+* <a href="https://docs.google.com/document/d/1rYpU290ztOZtVtZYAmH4tIyfcvIbfA_oV-0tPRDf_2Y/edit?usp=sharing"/>Team Contract</a>
+<br>
+* <a href="https://github.com/orgs/ICS314-Group-4/repositories"/>Github Organization</a>
+
 
 
 
