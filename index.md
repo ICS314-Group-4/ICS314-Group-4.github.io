@@ -18,7 +18,7 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 
 
 ## Deployment
-<a href="https://uh-its-email-helper-hqoog5rn5-eliesds-projects.vercel.app/">Vercel Deployment</a>
+<a href="https://uh-its-email-helper.vercel.app/">Vercel Deployment</a>
 
 
 ## About us
