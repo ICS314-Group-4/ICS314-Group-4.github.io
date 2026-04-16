@@ -5,18 +5,18 @@
 * [About us](#about-us)
 * [Project goals](#project-goals)
 * [Mockup pages](#mockup-pages)
-* [Mockup page ideas](#mockup-page-ideas)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](milestone-2)
+
+
+## Deployment
+<a href="https://uh-its-email-helper.vercel.app/">Vercel Deployment</a>
+
 
 ## Overview
 The Problem: UH ITS Help Desk student employees respond to countless emails every day, however, typing these emails takes a lot of time and effort to ensure accuracy and professionalism. While TeamDynamix has a feature for email templates that allow you to respond to common issues and concerns with a few clicks, these do not encompass most of the common issues that users experience. While you can also create your own templates in TeamDynamix, students are limited to 20 hours of work per week; their personal library of templates will be small, inconvenient to manage, and possibly provide inaccurate solutions.
 
 The Solution: UH ITS Email Helper provides a database of shared email templates created by the student employees. With a shared library of templates, student employees are able to use other’s templates, provide feedback and suggestions, and upload their own templates to the database.
-
-
-## Deployment
-<a href="https://uh-its-email-helper.vercel.app/">Vercel Deployment</a>
 
 
 ## About us
@@ -45,7 +45,8 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 
 ## Mockup pages:
 <details>
-  <summary>Click to expand images</summary>
+  <summary>Click to show images</summary>
+  <br />
   <img src="mockup-images/mockup1.png">
   <img src="mockup-images/mockup2.png">
   <img src="mockup-images/mockup3.png">
@@ -54,27 +55,26 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 </details>
 
 
-## Mockup page ideas:
-* Log in page
-* Home page
-* Template listings page/search results
-* Add template page
-* View and use template page
-
 ## Milestone 1:
 <a href="https://github.com/orgs/ICS314-Group-4/projects/1">Github Project</a>
 <details>
-  <summary>Click to expand images</summary>
+  <summary>Click to show images</summary>
+  <br />
   Landing page
   <img src="mockup-images/M1-landing-page.png">
+  <br />
   Home page
   <img src="mockup-images/M1-home-page.png">
+  <br />
   Browse templates
   <img src="mockup-images/M1-browse-templates.png">
+  <br />
   View/use template
   <img src="mockup-images/M1-view-template.png">
+  <br />
   Create template
   <img src="mockup-images/M1-add-template.png">
+  <br />
   Admin page
   <img src="mockup-images/M1-admin.png">
 </details>
