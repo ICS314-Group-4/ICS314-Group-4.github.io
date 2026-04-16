@@ -58,24 +58,30 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 ## Milestone 1:
 <a href="https://github.com/orgs/ICS314-Group-4/projects/1">Github Project</a>
 <details>
-  <summary>Click to show images</summary>
+  <summary>Click to show images and user guide</summary>
   <br />
-  Landing page
+  <h3>Landing page</h3>
+  Upon opening the website, users will be greeted by a landing page explaining some of the capabilities of UH ITS Email Helper.
   <img src="mockup-images/M1-landing-page.png">
   <br />
-  Home page
+  <h3>Home page</h3>
+  After a user creates an account and signs in, they will be taken to the home page where they will be able to create or browse user-created email templates.
   <img src="mockup-images/M1-home-page.png">
   <br />
-  Browse templates
+  <h3>Browse templates</h3>
+  When browsing templates, users will be able to see every template in the database either unsorted or filtered by category, title, and tags.
   <img src="mockup-images/M1-browse-templates.png">
   <br />
-  View/use template
+  <h3>View/use template</h3>
+  When a user selects a template, they are taken to a page where they can see and copy the full template text with one click. In M2, the site will be able to automatically append the user's signature to the end.
   <img src="mockup-images/M1-view-template.png">
   <br />
-  Create template
+  <h3>Create template</h3>
+  To add/create a new template, users enter the title, choose a category out of multiple options, write the actual template, then add any number of tags. 
   <img src="mockup-images/M1-add-template.png">
   <br />
-  Admin page
+  <h3>Admin page</h3>
+  Admin users can open the admin page, where they can edit and view all published templates and users. 
   <img src="mockup-images/M1-admin.png">
 </details>
 
