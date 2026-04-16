@@ -6,10 +6,8 @@
 * [Project goals](#project-goals)
 * [Mockup pages](#mockup-pages)
 * [Mockup page ideas](#mockup-page-ideas)
-* [M1 progress](#m1-progress)
-
-## Team Contract
-<a href="https://docs.google.com/document/d/1rYpU290ztOZtVtZYAmH4tIyfcvIbfA_oV-0tPRDf_2Y/edit?tab=t.0">Visit Contract</a>
+* [Milestone 1](#milestone-1)
+* [Milestone 2](milestone-2)
 
 ## Overview
 The Problem: UH ITS Help Desk student employees respond to countless emails every day, however, typing these emails takes a lot of time and effort to ensure accuracy and professionalism. While TeamDynamix has a feature for email templates that allow you to respond to common issues and concerns with a few clicks, these do not encompass most of the common issues that users experience. While you can also create your own templates in TeamDynamix, students are limited to 20 hours of work per week; their personal library of templates will be small, inconvenient to manage, and possibly provide inaccurate solutions.
@@ -23,6 +21,7 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 
 ## About us
 * <a href="https://github.com/orgs/ICS314-Group-4/repositories/">Github Organization</a>
+* <a href="https://docs.google.com/document/d/1rYpU290ztOZtVtZYAmH4tIyfcvIbfA_oV-0tPRDf_2Y/edit?usp=sharing/">Team Contract</a>
 * Andrew Wdzieczkowski <br/>
   Major: Computer Engineering
 * Dylan Elies <br/>
@@ -32,8 +31,6 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
   Major: Computer Science 
 * Skyler Remata<br/>
   Major: Computer Science
-* <a href="https://docs.google.com/document/d/1rYpU290ztOZtVtZYAmH4tIyfcvIbfA_oV-0tPRDf_2Y/edit?usp=sharing/">Team Contract</a>
-
 
 
 
@@ -47,11 +44,14 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 
 
 ## Mockup pages:
-![mockup-image-1](mockup-images/mockup1.png "title")
-![mockup-image-2](mockup-images/mockup2.png "title")
-![mockup-image-3](mockup-images/mockup3.png "title")
-![mockup-image-4](mockup-images/mockup4.png "title")
-![mockup-image-5](mockup-images/mockup5.png "title")
+<details>
+  <summary>Click to expand images</summary>
+  <img src="mockup-images/mockup1.png">
+  <img src="mockup-images/mockup2.png">
+  <img src="mockup-images/mockup3.png">
+  <img src="mockup-images/mockup4.png">
+  <img src="mockup-images/mockup5.png">
+</details>
 
 
 ## Mockup page ideas:
@@ -61,9 +61,23 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 * Add template page
 * View and use template page
 
-## M1 Progress:
-![landing-page](mockup-images/M1-landing-page.png "landing")
-![home-page](mockup-images/M1-home-page.png "home")
-![view-page](mockup-images/M1-view-templates.png "view page")
-![add-page](mockup-images/M1-add-template.png "add page")
-![admin](mockup-images/M1-add-template.png "admin page")
+## Milestone 1:
+<a href="https://github.com/orgs/ICS314-Group-4/projects/1">Github Project</a>
+<details>
+  <summary>Click to expand images</summary>
+  Landing page
+  <img src="mockup-images/M1-landing-page.png">
+  Home page
+  <img src="mockup-images/M1-home-page.png">
+  Browse templates
+  <img src="mockup-images/M1-browse-templates.png">
+  View/use template
+  <img src="mockup-images/M1-view-template.png">
+  Create template
+  <img src="mockup-images/M1-add-template.png">
+  Admin page
+  <img src="mockup-images/M1-admin.png">
+</details>
+
+## Milestone 2:
+<a href="https://github.com/orgs/ICS314-Group-4/projects/2">Github Project</a>
