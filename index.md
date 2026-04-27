@@ -2,11 +2,13 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [About us](#about-us)
 * [Project goals](#project-goals)
 * [Mockup pages](#mockup-pages)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](milestone-2)
+* [Milestone 3](milestone-3)
+* [Developer Guide](developer-guide)
+* [About us](#about-us)
 
 
 ## Deployment
@@ -17,21 +19,6 @@
 The Problem: UH ITS Help Desk student employees respond to countless emails every day, however, typing these emails takes a lot of time and effort to ensure accuracy and professionalism. While TeamDynamix has a feature for email templates that allow you to respond to common issues and concerns with a few clicks, these do not encompass most of the common issues that users experience. While you can also create your own templates in TeamDynamix, students are limited to 20 hours of work per week; their personal library of templates will be small, inconvenient to manage, and possibly provide inaccurate solutions.
 
 The Solution: UH ITS Email Helper provides a database of shared email templates created by the student employees. With a shared library of templates, student employees are able to use other’s templates, provide feedback and suggestions, and upload their own templates to the database.
-
-
-## About us
-* <a href="https://github.com/orgs/ICS314-Group-4/repositories/">Github Organization</a>
-* <a href="https://docs.google.com/document/d/1rYpU290ztOZtVtZYAmH4tIyfcvIbfA_oV-0tPRDf_2Y/edit?usp=sharing/">Team Contract</a>
-* Andrew Wdzieczkowski <br/>
-  Major: Computer Engineering
-* Dylan Elies <br/>
-  Major: Political science/Japanese<br/>
-  Minor: Computer Science
-* Chase Obuhanych<br/>
-  Major: Computer Science 
-* Skyler Remata<br/>
-  Major: Computer Science
-
 
 
 ## Project goals:
@@ -87,3 +74,59 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 
 ## Milestone 2:
 <a href="https://github.com/orgs/ICS314-Group-4/projects/2">Github Project</a>
+<details>
+  <summary>Click to show images and user guide</summary>
+  <br />
+  <h3>Landing Page</h3>
+  Upon opening the website, users will be greeted by a landing page explaining some of the capabilities of UH ITS Email Helper.
+  <img src="mockup-images/M1-landing-page.png">
+  <br />
+  <h3>Home Page</h3>
+  After a user creates an account and signs in, they will be taken to the home page where they will be able to create and browse user-created email templates by category, tag, or title, and edit their profile.
+  <img src="mockup-images/M2-Home-Page-1.png">
+  <img src="mockup-images/M2-Home-Page-2.png">
+  <br />
+  <h3>Edit Profile</h3>
+  Users can edit their name and signature at any time. Their name is displayed everywhere they are identified or addressed instead of their email address, and is required upon account creation. Signature is an optional field that will append text to the end of templates copied on the view page.
+  <img src="mockup-images/M2-Edit-Profile.png">
+  <h3>Browse Templates</h3>
+  When browsing templates, users will be able to see every template in the database. They can be filtered, sorted, and searched by category, title, tags, author, times used, and comments.
+  <img src="mockup-images/M2-Browse-Templates.png">
+  <br />
+  <h3>View/Use Template</h3>
+  When a user selects a template, they are taken to a page where they can see and copy the full template text with one click. The uses counter tracks how many unique users copied a given template. Users can also post public comments on templates. 
+  <img src="mockup-images/M2-View-Template.png">
+  <br />
+  <h3>Create Template</h3>
+  To add/create a new template, users enter the title, choose a category out of multiple options, write the actual template, then add any number of tags. There is also a preview button that shows how a template will appear on the view page.
+  <img src="mockup-images/M2-Add-Template.png">
+  <br />
+  <h3>Admin Dashboard</h3>
+  Admin users can open the admin dashboard, where they can edit, view, and delete all published templates and users. 
+  <img src="mockup-images/M2-Admin-Dashboard.png">
+</details>
+
+## Milestone 3:
+<a href="https://github.com/orgs/ICS314-Group-4/projects/3">Github Project</a>
+
+
+## Developer Guide:
+<details>
+  <summary>Click to show developer Guide</summary>
+  <br />
+  <h3>TODO</h3>
+</details>
+
+
+## About us
+* <a href="https://github.com/orgs/ICS314-Group-4/repositories/">Github Organization</a>
+* <a href="https://docs.google.com/document/d/1rYpU290ztOZtVtZYAmH4tIyfcvIbfA_oV-0tPRDf_2Y/edit?usp=sharing/">Team Contract</a>
+* Andrew Wdzieczkowski <br/>
+  Major: Computer Engineering
+* Dylan Elies <br/>
+  Major: Political science/Japanese<br/>
+  Minor: Computer Science
+* Chase Obuhanych<br/>
+  Major: Computer Science 
+* Skyler Remata<br/>
+  Major: Computer Science
