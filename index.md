@@ -114,7 +114,40 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 <details>
   <summary>Click to show developer Guide</summary>
   <br />
-  <h3>TODO</h3>
+
+1. **Install PostgreSQL** and create a database for your app:
+	```bash
+	createdb nextjs-application-template
+	```
+
+2. **Clone this repo**
+	```bash
+	git clone https://github.com/ICS314-Group-4/Group-4-Final-Project
+	```
+
+4. **Install dependencies:**
+	```bash
+	npm install
+	```
+
+5. **Create your .env file:** and update the `DATABASE_URL` to match your PostgreSQL setup.
+	```bash
+   cp sample.env .env
+	```
+ 
+7. **Set up the database:**
+	```bash
+	npx prisma migrate dev
+  npx prisma generate
+  npm run seed
+	```
+
+8. **Start the development server:**
+	```bash
+	npm run dev
+	```
+
+The app will be available at [http://localhost:3000](http://localhost:3000).
 </details>
 
 
