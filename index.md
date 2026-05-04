@@ -13,6 +13,13 @@
 
 ## Deployment
 <a href="https://uh-its-email-helper.vercel.app/">Vercel Deployment</a>
+Please use the following login credentials when viewing the site as a user:
+Username: john@foo.com
+Password: changeme
+
+Please use the following login credentials when viewing the site as an admin:
+Username: admin@foo.com
+Password: changeme
 
 
 ## Overview
