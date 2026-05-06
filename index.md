@@ -80,8 +80,8 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
   <img src="mockup-images/UserTemplates2.png">
   <h3>Admin Dashboard</h3>
   Admin users can open the admin dashboard, where they can set up the master code and whitelist users. They can also edit, view, and delete all published templates and users.
-  <img src="mockup-images/Admin1.png">
-  <img src="mockup-images/Admin2.png">
+  <img src="mockup-images/AdminDashboard1.png">
+  <img src="mockup-images/AdminDashboard2.png">
 </details>
 
 
