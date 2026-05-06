@@ -4,12 +4,12 @@
 * [Overview](#overview)
 * [Project goals](#project-goals)
 * [User Guide](#user-guide)
-* [Developer Guide](#developer-guide)
 * [Community Feedback](#community-feedback)
 * [Mockup pages](#mockup-pages)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Milestone 3](#milestone-3)
+* [Developer Guide](#developer-guide)
 * [About us](#about-us)
 
 
@@ -83,42 +83,6 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
   <img src="mockup-images/Admin1.png">
   <img src="mockup-images/Admin2.png">
 </details>
-
-
-## Developer Guide:
-1. **Install PostgreSQL** and create a database for your app:
-	```bash
-	createdb nextjs-application-template
-	```
-
-2. **Clone this repo**
-	```bash
-	git clone https://github.com/ICS314-Group-4/Group-4-Final-Project
-	```
-
-4. **Install dependencies:**
-	```bash
-	npm install
-	```
-
-5. **Create your .env file** and update the `DATABASE_URL` to match your PostgreSQL setup:
-	```bash
-   cp sample.env .env
-	```
- 
-7. **Set up the database:**
-	```bash
-	npx prisma migrate dev
-  	npx prisma generate
-  	npm run seed
-	```
-
-8. **Start the development server:**
-	```bash
-	npm run dev
-	```
-
-The app will be available at [http://localhost:3000](http://localhost:3000).
 
 
 ## Community Feedback
@@ -225,6 +189,42 @@ Suggestions:<br>
 
 ## Milestone 3:
 <a href="https://github.com/orgs/ICS314-Group-4/projects/3">Github Project</a>
+
+
+## Developer Guide:
+1. **Install PostgreSQL** and create a database for your app:
+	```bash
+	createdb nextjs-application-template
+	```
+
+2. **Clone this repo**
+	```bash
+	git clone https://github.com/ICS314-Group-4/Group-4-Final-Project
+	```
+
+4. **Install dependencies:**
+	```bash
+	npm install
+	```
+
+5. **Create your .env file** and update the `DATABASE_URL` to match your PostgreSQL setup:
+	```bash
+   cp sample.env .env
+	```
+ 
+7. **Set up the database:**
+	```bash
+	npx prisma migrate dev
+  	npx prisma generate
+  	npm run seed
+	```
+
+8. **Start the development server:**
+	```bash
+	npm run dev
+	```
+
+The app will be available at [http://localhost:3000](http://localhost:3000).
 
 
 ## About us
