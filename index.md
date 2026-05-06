@@ -97,13 +97,13 @@ Negative:<br>
  can be confusing<br>
 <br>
 Suggestions:<br>
-*A custom logo
-*Rating / upvote system
-*Private templates/drafts
-*Copy button directly on browse page
-*Most used by me/all users on home page
-*Differentiation between similar templates
-*Text box with markdown for creation/editing
+*A custom logo<br>
+*Rating / upvote system<br>
+*Private templates/drafts<br>
+*Copy button directly on browse page<br>
+*Most used by me/all users on home page<br>
+*Differentiation between similar templates<br>
+*Text box with markdown for creation/editing<br>
 
 
 ## Mockup pages:
