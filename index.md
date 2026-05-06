@@ -3,11 +3,13 @@
 ## Table of contents
 * [Overview](#overview)
 * [Project goals](#project-goals)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Community Feedback](#community-feedback)
 * [Mockup pages](#mockup-pages)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 * [Milestone 3](#milestone-3)
-* [Developer Guide](#developer-guide)
 * [About us](#about-us)
 
 
@@ -38,84 +40,8 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 * Allow student employees to effectively respond to tickets with a few clicks instead of drafting and revising a professional email for common issues.
 
 
-## Mockup pages:
-<details>
-  <summary>Click to show images</summary>
-  <br />
-  <img src="mockup-images/mockup1.png">
-  <img src="mockup-images/mockup2.png">
-  <img src="mockup-images/mockup3.png">
-  <img src="mockup-images/mockup4.png">
-  <img src="mockup-images/mockup5.png">
-</details>
-
-
-## Milestone 1:
-<a href="https://github.com/orgs/ICS314-Group-4/projects/1">Github Project</a>
-<details>
-  <summary>Click to show images and user guide</summary>
-  <br />
-  <h3>Landing page</h3>
-  Upon opening the website, users will be greeted by a landing page explaining some of the capabilities of UH ITS Email Helper.
-  <img src="mockup-images/M1-landing-page.png">
-  <br />
-  <h3>Home page</h3>
-  After a user creates an account and signs in, they will be taken to the home page where they will be able to create or browse user-created email templates.
-  <img src="mockup-images/M1-home-page.png">
-  <br />
-  <h3>Browse templates</h3>
-  When browsing templates, users will be able to see every template in the database either unsorted or filtered by category, title, and tags.
-  <img src="mockup-images/M1-browse-templates.png">
-  <br />
-  <h3>View/use template</h3>
-  When a user selects a template, they are taken to a page where they can see and copy the full template text with one click. In M2, the site will be able to automatically append the user's signature to the end.
-  <img src="mockup-images/M1-view-template.png">
-  <br />
-  <h3>Create template</h3>
-  To add/create a new template, users enter the title, choose a category out of multiple options, write the actual template, then add any number of tags. 
-  <img src="mockup-images/M1-add-template.png">
-  <br />
-  <h3>Admin page</h3>
-  Admin users can open the admin page, where they can edit and view all published templates and users. 
-  <img src="mockup-images/M1-admin.png">
-</details>
-
-## Milestone 2:
-<a href="https://github.com/orgs/ICS314-Group-4/projects/2">Github Project</a>
-<details>
-  <summary>Click to show images and user guide</summary>
-  <br />
-  <h3>Landing Page</h3>
-  Upon opening the website, users will be greeted by a landing page explaining some of the capabilities of UH ITS Email Helper.
-  <img src="mockup-images/M1-landing-page.png">
-  <br />
-  <h3>Home Page</h3>
-  After a user creates an account and signs in, they will be taken to the home page where they will be able to create and browse user-created email templates by category, tag, or title, and edit their profile.
-  <img src="mockup-images/M2-Home-Page-1.png">
-  <img src="mockup-images/M2-Home-Page-2.png">
-  <br />
-  <h3>Edit Profile</h3>
-  Users can edit their name and signature at any time. Their name is displayed everywhere they are identified or addressed instead of their email address, and is required upon account creation. Signature is an optional field that will append text to the end of templates copied on the view page.
-  <img src="mockup-images/M2-Edit-Profile.png">
-  <h3>Browse Templates</h3>
-  When browsing templates, users will be able to see every template in the database. They can be filtered, sorted, and searched by category, title, tags, author, times used, and comments.
-  <img src="mockup-images/M2-Browse-Templates.png">
-  <br />
-  <h3>View/Use Template</h3>
-  When a user selects a template, they are taken to a page where they can see and copy the full template text with one click. The uses counter tracks how many unique users copied a given template. Users can also post public comments on templates. 
-  <img src="mockup-images/M2-View-Template.png">
-  <br />
-  <h3>Create Template</h3>
-  To add/create a new template, users enter the title, choose a category out of multiple options, write the actual template, then add any number of tags. There is also a preview button that shows how a template will appear on the view page.
-  <img src="mockup-images/M2-Add-Template.png">
-  <br />
-  <h3>Admin Dashboard</h3>
-  Admin users can open the admin dashboard, where they can edit, view, and delete all published templates and users. 
-  <img src="mockup-images/M2-Admin-Dashboard.png">
-</details>
-
-## Milestone 3:
-<a href="https://github.com/orgs/ICS314-Group-4/projects/3">Github Project</a>
+## User Guide:
+user guide
 
 
 ## Developer Guide:
@@ -152,6 +78,112 @@ The Solution: UH ITS Email Helper provides a database of shared email templates 
 	```
 
 The app will be available at [http://localhost:3000](http://localhost:3000).
+
+
+## Community Feedback
+
+Positive: <br>
+ +User friendly<br>
+ +Visual design<br>
+ +Filtering and tags<br>
+ +Template usage count<br>
+ +Automatic custom signatures<br>
+<br>
+Negative:<br>
+-Label entry could be easier<br>
+-Copy format is inconvenient(?)<br>
+-Some categories are too broad<br>
+-Navigating to specific templates
+ can be confusing<br>
+<br>
+Suggestions:<br>
+*A custom logo
+*Rating / upvote system
+*Private templates/drafts
+*Copy button directly on browse page
+*Most used by me/all users on home page
+*Differentiation between similar templates
+*Text box with markdown for creation/editing
+
+
+## Mockup pages:
+<details>
+  <summary>Click to show images</summary>
+  <br />
+  <img src="mockup-images/mockup1.png">
+  <img src="mockup-images/mockup2.png">
+  <img src="mockup-images/mockup3.png">
+  <img src="mockup-images/mockup4.png">
+  <img src="mockup-images/mockup5.png">
+</details>
+
+
+## Milestone 1:
+<a href="https://github.com/orgs/ICS314-Group-4/projects/1">Github Project</a>
+<details>
+  <summary>Click to show images and user guide as of M1</summary>
+  <br />
+  <h3>Landing page</h3>
+  Upon opening the website, users will be greeted by a landing page explaining some of the capabilities of UH ITS Email Helper.
+  <img src="mockup-images/M1-landing-page.png">
+  <br />
+  <h3>Home page</h3>
+  After a user creates an account and signs in, they will be taken to the home page where they will be able to create or browse user-created email templates.
+  <img src="mockup-images/M1-home-page.png">
+  <br />
+  <h3>Browse templates</h3>
+  When browsing templates, users will be able to see every template in the database either unsorted or filtered by category, title, and tags.
+  <img src="mockup-images/M1-browse-templates.png">
+  <br />
+  <h3>View/use template</h3>
+  When a user selects a template, they are taken to a page where they can see and copy the full template text with one click. In M2, the site will be able to automatically append the user's signature to the end.
+  <img src="mockup-images/M1-view-template.png">
+  <br />
+  <h3>Create template</h3>
+  To add/create a new template, users enter the title, choose a category out of multiple options, write the actual template, then add any number of tags. 
+  <img src="mockup-images/M1-add-template.png">
+  <br />
+  <h3>Admin page</h3>
+  Admin users can open the admin page, where they can edit and view all published templates and users. 
+  <img src="mockup-images/M1-admin.png">
+</details>
+
+## Milestone 2:
+<a href="https://github.com/orgs/ICS314-Group-4/projects/2">Github Project</a>
+<details>
+  <summary>Click to show images and user guide as of M2</summary>
+  <br />
+  <h3>Landing Page</h3>
+  Upon opening the website, users will be greeted by a landing page explaining some of the capabilities of UH ITS Email Helper.
+  <img src="mockup-images/M1-landing-page.png">
+  <br />
+  <h3>Home Page</h3>
+  After a user creates an account and signs in, they will be taken to the home page where they will be able to create and browse user-created email templates by category, tag, or title, and edit their profile.
+  <img src="mockup-images/M2-Home-Page-1.png">
+  <img src="mockup-images/M2-Home-Page-2.png">
+  <br />
+  <h3>Edit Profile</h3>
+  Users can edit their name and signature at any time. Their name is displayed everywhere they are identified or addressed instead of their email address, and is required upon account creation. Signature is an optional field that will append text to the end of templates copied on the view page.
+  <img src="mockup-images/M2-Edit-Profile.png">
+  <h3>Browse Templates</h3>
+  When browsing templates, users will be able to see every template in the database. They can be filtered, sorted, and searched by category, title, tags, author, times used, and comments.
+  <img src="mockup-images/M2-Browse-Templates.png">
+  <br />
+  <h3>View/Use Template</h3>
+  When a user selects a template, they are taken to a page where they can see and copy the full template text with one click. The uses counter tracks how many unique users copied a given template. Users can also post public comments on templates. 
+  <img src="mockup-images/M2-View-Template.png">
+  <br />
+  <h3>Create Template</h3>
+  To add/create a new template, users enter the title, choose a category out of multiple options, write the actual template, then add any number of tags. There is also a preview button that shows how a template will appear on the view page.
+  <img src="mockup-images/M2-Add-Template.png">
+  <br />
+  <h3>Admin Dashboard</h3>
+  Admin users can open the admin dashboard, where they can edit, view, and delete all published templates and users. 
+  <img src="mockup-images/M2-Admin-Dashboard.png">
+</details>
+
+## Milestone 3:
+<a href="https://github.com/orgs/ICS314-Group-4/projects/3">Github Project</a>
 
 
 ## About us
